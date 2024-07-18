@@ -16,7 +16,7 @@ The routine of each button is as follows:
 
 | Button  | Initial Wait (s) | Initial Position | Initial Motion | Competition |
 | ------------- | :---: | :---: | :---: | :---: |
-| S1  | 5 | | | | 
-| S2  | 5 | | | |
+| S1  | 5 | Facing Opponent| Attacking straight | RBTX | 
+| S2  | 5 | Facing Operator/ Side | 180° | RBTX / UNIKL | 
 | S3  | 3 | Facing Operator | 180° | IRC |
-| S4  | 5 | | | |
+| S4  | 5 | Facing Opponent| Attacking straight | RBTX |
